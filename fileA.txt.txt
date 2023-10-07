@@ -1,4 +1,6 @@
 Tes Comit Update
 Comit untuk branch baru
 
-versi a di perbaiki oleh udin
+versi dev merubah file A juga
+
+apakah tidak bisa di ubah oleh si dev?
